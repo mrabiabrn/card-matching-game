@@ -1,5 +1,5 @@
 # card-matching-game
-A basic QT implementation of matching cards.
+A basic QT implementation of matching cards game.
 
 ## Qt Version
 - Qt Creator 4.12.2 (Community)
